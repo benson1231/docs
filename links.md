@@ -5,16 +5,16 @@
 ---
 
 ## 目錄
-[1. DevOps](#1-devops)  
-[2. web front-end](#2-web-front-end)  
-[3. web back-end](#3-web-back-end)  
-[4. database](#4-database)  
-[5. computer science](#5-computer-science)  
-[6. workflow language](#6-workflow-language)   
+[1. DevOps](#devops)  
+[2. web front-end](#front-end)  
+[3. web back-end](#back-end)  
+[4. database](#database)  
+[5. computer science](#computer-science)  
+[6. workflow language](#workflow-language)   
 
 ---
 
-## 1. DevOps
+## DevOps
 
 #### git
 - [git](https://git-scm.com/)
@@ -42,7 +42,7 @@
 
 ---
 
-## 2. web front-end
+## front-end
 
 #### front-end(html, css, javascript)
 - [MDN docs](https://developer.mozilla.org/en-US/)
@@ -61,7 +61,7 @@
 
 ---
 
-## 3. web back-end
+## back-end
 
 #### fastapi
 - [FastAPI](https://fastapi.tiangolo.com/)
@@ -76,14 +76,14 @@
 
 ---
 
-## 4. database
+## database
 
 #### mongoDB
 - [MongoDB](https://www.mongodb.com/)
 
 ---
 
-## 5. computer science
+## computer-science
 
 #### Algorithm
 - [hello algo](https://www.hello-algo.com/chapter_hello_algo/)
@@ -93,7 +93,7 @@
 
 ---
 
-## 6. workflow language
+## workflow-language
 
 #### airflow
 - [airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
