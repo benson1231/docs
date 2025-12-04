@@ -1,6 +1,7 @@
 # 首頁
 
-[![GitHub followers](https://img.shields.io/github/followers/benson1231?style=social)](https://github.com/benson1231)
+- [常用連結](./links.md)
+- [生資常用套件整理](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)
 
 ---
 
