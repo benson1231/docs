@@ -3,15 +3,17 @@
 > [生資與電腦科學常用套件整理雲端連結](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)
 
 ---
+
 ## 目錄
 [1. DevOps](#1-devops)
 [2. web front-end](#2-web-front-end)
 [3. web back-end](#3-web-back-end)
-[4. workflow language](#4-workflow-language)
+[4. database](#4-database)
 [5. computer science](#5-computer-science)
-[6. database](#6-database)
+[6. workflow language](#6-workflow-language) 
 
 ---
+
 ## 1. DevOps
 
 #### git
@@ -42,7 +44,7 @@
 
 ## 2. web front-end
 
-#### Front-end(html, css, javascript)
+#### front-end(html, css, javascript)
 - [MDN docs](https://developer.mozilla.org/en-US/)
   - [html](https://developer.mozilla.org/en-US/docs/Web/HTML) 
   - [css](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -72,15 +74,12 @@
 
 #### express
 
-
 ---
 
-## 4. workflow language
+## 4. database
 
-#### airflow
-- [airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
-- [astronomer's airflow docs](https://www.astronomer.io/docs/learn)
-- [astro-cli docs](https://www.astronomer.io/docs/astro/cli/overview)
+#### mongoDB
+- [MongoDB](https://www.mongodb.com/)
 
 ---
 
@@ -94,7 +93,18 @@
 
 ---
 
-## 6. database
+## 6. workflow language
 
-#### MongoDB
-- [MongoDB](https://www.mongodb.com/)
+#### airflow
+- [airflow docs](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
+- [astronomer's airflow docs](https://www.astronomer.io/docs/learn)
+- [astro-cli docs](https://www.astronomer.io/docs/astro/cli/overview)
+
+#### nextflow
+- [nextflow docs](https://www.nextflow.io/docs/latest/index.html)
+- [nf-core](https://nf-co.re/docs/)
+- [hello nextflow training course](https://training.nextflow.io/2.8.1/hello_nextflow/)
+
+#### snakemake
+- [snakemake docs](https://snakemake.readthedocs.io/en/stable/)
+- [snakemake workflows github](https://github.com/snakemake-workflows/docs)
