@@ -47,14 +47,17 @@
 
 ## front-end
 
-#### front-end(html, css, javascript)
-- [MDN docs](https://developer.mozilla.org/en-US/)
-  - [html](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-  - [css](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+#### HTML
+- [html MDN docs](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 - [W3Schools docs](https://www.w3schools.com/)
+
+#### css
+- [css MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [bootstrap docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [tailwindcss docs](https://tailwindcss.com/docs/installation/using-vite)
+
+#### Javascript [👉 Javascript packages links](./links/javascript-packages.md)
+- [JavaScript MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### React
 - [React docs](https://react.dev/reference/react)
@@ -76,6 +79,7 @@
 - [Flask](https://flask.palletsprojects.com/)
 
 #### express
+- [express.js](https://expressjs.com/)
 
 ---
 
@@ -83,6 +87,8 @@
 
 #### mongoDB
 - [MongoDB](https://www.mongodb.com/)
+- docker images
+  - [MongoDB docker images](https://hub.docker.com/_/mongo/tags)
 
 ---
 
