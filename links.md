@@ -29,7 +29,11 @@
     - [Workflow commands](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-commands)
     - [variables](https://docs.github.com/en/actions/reference/workflows-and-actions/variables)
     - [Workflow artifacts](https://docs.github.com/en/actions/concepts/workflows-and-actions/workflow-artifacts)
+    - [service containers](https://docs.github.com/en/actions/tutorials/use-containerized-services/use-docker-service-containers)
     - [secrets](https://docs.github.com/en/actions/concepts/security/secrets)
+    - [job-id-permissions](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#defining-access-for-the-github_token-scopes-1)
+    - [openID](https://docs.github.com/en/actions/concepts/security/openid-connect)
+    - [Secure use reference](https://docs.github.com/en/actions/reference/security/secure-use)
 
 #### docker
 - [dockerhub](https://hub.docker.com/)
