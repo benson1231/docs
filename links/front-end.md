@@ -9,7 +9,7 @@
 - [bootstrap docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [tailwindcss docs](https://tailwindcss.com/docs/installation/using-vite)
 
-#### Javascript [👉 Javascript packages links](./links/javascript-packages.md)
+#### Javascript [👉 Javascript packages links](./javascript-packages.md)
 - [JavaScript MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### React

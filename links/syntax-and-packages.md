@@ -1,10 +1,10 @@
 ## syntax-and-packages
 
-#### python [👉 packages links](./links/python-packages.md)
+#### python [👉 packages links](./python-packages.md)
 - [pytohn docs](https://www.python.org/doc/)
 - [python download](https://www.python.org/downloads/)
 
-#### R [👉 packages links](./links/R-packages.md)
+#### R [👉 packages links](./R-packages.md)
 - [R Project Home](https://www.r-project.org/)
 - [R download](https://cran.csie.ntu.edu.tw/)
 - IDE
