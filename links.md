@@ -1,7 +1,8 @@
 # 🔗 快速連結官方文檔
 
-> [生資與電腦科學常用套件整理雲端連結](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)
-> [my github repo](./links/github-repo.md)
+> [生資與電腦科學常用套件整理雲端連結](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)  
+> [My github repos for learning](./links/training-repo.md)
+> [My projects](./links/project-repo.md)
 
 ---
 
