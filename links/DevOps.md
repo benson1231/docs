@@ -4,6 +4,7 @@
 - [git](https://git-scm.com/)
 - [github](https://github.com/)
 - [github docs](https://docs.github.com/en)
+  - [Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 #### github action
 - [github action docs](https://docs.github.com/en/actions/get-started/quickstart)
