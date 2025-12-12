@@ -1,4 +1,4 @@
-# 🔗 快速連結官方文檔
+# 🔗 Quick link
 
 > [Common Bioinformatics Packages](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)  
 > [My github repos for learning](./links/training-repo.md)  

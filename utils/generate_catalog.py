@@ -44,7 +44,7 @@ def main():
 
     # Write to file
     with open(args.output, "w", encoding="utf-8") as f:
-        f.write("# 📚 目錄\n\n")
+        f.write("# 📚 catalog\n\n")
         f.write(tree_markdown)
 
     print(f"✅ {args.output} has been generated.")
