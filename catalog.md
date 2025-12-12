@@ -263,6 +263,7 @@
   - 📄 [DevOps.md](links/DevOps.md)
   - 📄 [back-end.md](links/back-end.md)
   - 📄 [bioinformatics.md](links/bioinformatics.md)
+  - 📄 [cloud.md](links/cloud.md)
   - 📄 [computer-science.md](links/computer-science.md)
   - 📄 [database.md](links/database.md)
   - 📄 [front-end.md](links/front-end.md)
