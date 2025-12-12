@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "01.ngs/**"
+      - "01.NGS/**"
       - "02.data-science/**"
       - "03.statistics/**"
       - "04.devOps/**"
