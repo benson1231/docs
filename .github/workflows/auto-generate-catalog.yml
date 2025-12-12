@@ -16,7 +16,7 @@ on:
       - "06.front-end/**"
       - "07.cloud&network/**"
       - "08.computer-science/**"
-      - "09.syntax/**"
+      - "09.lang-syntax/**"
       - "10.others/**"
       - "utils/generate_catalog.py"
   workflow_dispatch:
