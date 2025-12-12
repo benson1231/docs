@@ -1,1 +1,1 @@
-# 📈 data science
+# 📈 Data science
