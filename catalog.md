@@ -253,6 +253,7 @@
     - 📄 [RDKit.md](10.others/Chemical/RDKit.md)
   - 📁 [English](10.others/English/README.md)
     - 📄 [English_for_engineer.md](10.others/English/English_for_engineer.md)
+  - 📄 [icon.md](10.others/icon.md)
   - 📁 [medical-database](10.others/medical-database/README.md)
     - 📄 [GTEx.md](10.others/medical-database/GTEx.md)
     - 📄 [TCGA.md](10.others/medical-database/TCGA.md)
