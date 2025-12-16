@@ -56,7 +56,7 @@ def main():
     tree_markdown = generate_catalog(args.root_directory, base_path=args.root_directory)
 
     with open(args.output, "w", encoding="utf-8") as f:
-        f.write("# 📚 catalog\n\n")
+        f.write("# 📚 Catalog\n\n")
         f.write(tree_markdown)
 
     print(f"✅ {args.output} has been generated.")
