@@ -13,7 +13,7 @@ For a complete overview, see the [📚 Table of Contents](./catalog.md).
 
 ## 📖 Topics Covered
 
-* [Next-generation sequencing](./01.NGS/README.md) data analysis, including DNA-seq, RNA-seq, single-cell RNA-seq, and microbiome workflows
+* [Next-generation sequencing](./01.ngs/README.md) data analysis, including DNA-seq, RNA-seq, single-cell RNA-seq, and microbiome workflows
 * [Data science](./02.data-science/README.md) methodologies, covering data preprocessing, analysis, and visualization
 * [Statistical](./03.statistics/README.md) foundations and applied statistical analysis for biomedical and computational research
 * [DevOps](./04.devOps/README.md) practices, including containerization, CI/CD, workflow automation, and reproducible research environments
