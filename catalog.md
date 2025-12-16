@@ -1,4 +1,4 @@
-# 📚 catalog
+# 📚 Catalog
 
 - 📁 [ngs](01.ngs/README.md)
   - 📁 [introduction_of_NGS](01.ngs/01.introduction_of_NGS/README.md)
