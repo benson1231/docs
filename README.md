@@ -36,8 +36,8 @@ For a complete overview, see the [📚 Table of Contents](./catalog.md).
 
 This e-book is actively maintained and will be updated on an ongoing basis. Comments, corrections, and scholarly or technical feedback are welcome.
 
-🌐 Personal Website: [Visit My Website](https://benson1231.github.io/)  
-📩 Contact: [benson106075@gmail.com](mailto:benson106075@gmail.com)  
-🔗 LinkedIn: [Benson Lee](https://www.linkedin.com/in/chin-yu-lee-471109294)  
+🌐 Personal Website: [Visit My Website](https://benson1231.github.io/)   
+📩 Contact: [benson106075@gmail.com](mailto:benson106075@gmail.com)   
+🔗 LinkedIn: [Benson Lee](https://www.linkedin.com/in/chin-yu-lee-471109294)    
 💻 GitHub: [benson1231](https://github.com/benson1231)  
 🐳 Docker Hub: [benson1231](https://hub.docker.com/u/benson1231)  
