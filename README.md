@@ -32,7 +32,7 @@ For a complete overview, see the [📚 Table of Contents](./catalog.md).
 
 ---
 
-## 🔄 Updates & Contact
+## 📬 Contact
 
 This e-book is actively maintained and will be updated on an ongoing basis. Comments, corrections, and scholarly or technical feedback are welcome.
 
