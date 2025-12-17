@@ -2,6 +2,8 @@
 
 * [Useful Website Links](./links.md)
 * [Common Bioinformatics Tools (Curated Spreadsheet)](https://docs.google.com/spreadsheets/d/19aNU64J1diFTT1soe4DDKa7pmG6O8MxQDxvi2kQzsTI/edit?usp=sharing)
+* [My learning repositories](./links/others/training-repo.md)  
+* [My project repositories](./links/others/project-repo.md)
 
 ---
 
