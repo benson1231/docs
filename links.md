@@ -1,4 +1,4 @@
-# 🔗 Quick link
+# 🔗 External resource links
 
 ## main
 
