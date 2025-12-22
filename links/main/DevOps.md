@@ -5,6 +5,7 @@
 - [github](https://github.com/)
 - [github docs](https://docs.github.com/en)
   - [Connecting to GitHub with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 #### github action
 - [github action docs](https://docs.github.com/en/actions/get-started/quickstart)
@@ -19,6 +20,12 @@
   - [job-id-permissions](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#defining-access-for-the-github_token-scopes-1)
   - [openID](https://docs.github.com/en/actions/concepts/security/openid-connect)
   - [Secure use reference](https://docs.github.com/en/actions/reference/security/secure-use)
+- [github marketplace for action](https://github.com/marketplace?type=actions)
+  - [checkout](https://github.com/marketplace/actions/checkout)
+  - [cache](https://github.com/marketplace/actions/cache)
+  - [release-please-action](https://github.com/marketplace/actions/release-please-action)
+  - [upload-artifact](https://github.com/marketplace/actions/upload-a-build-artifact)
+  - [download-artifact](https://github.com/marketplace/actions/download-a-build-artifact)
 
 #### docker
 - [dockerhub](https://hub.docker.com/)
