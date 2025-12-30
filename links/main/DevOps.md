@@ -47,3 +47,17 @@
 - download
   - [kubectl](https://kubernetes.io/docs/tasks/tools/)
   - [minikube](https://minikube.sigs.k8s.io/docs/start/)
+
+#### quarto
+- [quarto docs](https://quarto.org/docs/guide/)
+  - [quarto-basic](https://quarto.org/docs/get-started/)
+  - [markdown-basic](https://quarto.org/docs/authoring/markdown-basics.html)
+  - [callouts](https://quarto.org/docs/authoring/callouts.html)
+  - [code-annotation](https://quarto.org/docs/authoring/code-annotation.html)
+  - [brand](https://quarto.org/docs/authoring/brand.html)
+  - [layout](https://quarto.org/docs/authoring/article-layout.html)
+  - [execution-options](https://quarto.org/docs/computations/execution-options.html)
+  - [parameters](https://quarto.org/docs/computations/parameters.html)
+  - [html-output](https://quarto.org/docs/output-formats/html-code.html)
+  - [websites](https://quarto.org/docs/websites/)
+  - [publish to github-pages](https://quarto.org/docs/publishing/github-pages.html)
